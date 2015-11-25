@@ -1,2 +1,8 @@
 # thinkjoy-frontend-file
-22
+### npm install
+### npm install hexo-deployer-git --save
+### hexo g
+### hexo s
+### hexo d
+
+
