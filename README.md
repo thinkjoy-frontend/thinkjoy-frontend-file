@@ -7,3 +7,14 @@
 ### hexo d
 
 
+###出现账号deploy问题按下面操作
+
+  ssh-keygen -t rsa -C "***@**" (你的github账号)
+  
+  会生成在你的电脑 (/home/you/.ssh/id_rsa)
+    
+  vim /home/you/.ssh/id_rsa  
+  
+  复制内容，发给sfdeng@thinkjoy.cn
+  
+
