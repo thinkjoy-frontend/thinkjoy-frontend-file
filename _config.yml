@@ -22,8 +22,8 @@ permalink_defaults:
 source_dir: source #源文件目录
 public_dir: public #生成的网页文件目录
 tag_dir: tags #标签目录
-archive_dir: 存档 #存档目录
-category_dir: 分类 #分类目录
+archive_dir: archives #存档目录
+category_dir: categories #分类目录
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
