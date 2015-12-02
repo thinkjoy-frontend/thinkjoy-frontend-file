@@ -2,6 +2,7 @@
 ### npm install -g hexo
 ### npm install
 ### npm install hexo-deployer-git --save
+### hexo n   #写文章
 ### hexo g
 ### hexo s
 ### hexo d
